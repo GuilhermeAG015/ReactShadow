@@ -1,0 +1,19 @@
+{
+  "name": "reactshadow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeAG015/ReactShadow.git"
+  },
+  "author": "Guilherme Grilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeAG015/ReactShadow/issues"
+  },
+  "homepage": "https://github.com/GuilhermeAG015/ReactShadow#readme"
+}
