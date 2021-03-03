@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "variaveis": "node Js/variaveis.js",
+    "operadores": "node Js/operadores.js",
+    "condicionais": "node Js/condicionais.js",
+    "loops": "node Js/loops.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeAG015/ReactShadow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeAG015/ReactShadow/issues"
+  },
+  "homepage": "https://github.com/GuilhermeAG015/ReactShadow#readme"
+}
